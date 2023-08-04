@@ -8,6 +8,12 @@ This is a simple React app that displays an image gallery fetched from an API an
 - Displays a loading spinner while fetching data.
 - Allows users to click on a thumbnail to view a single image in larger view with its title and description.
 
+## Image
+
+![Main Page](https://drive.google.com/file/d/1CknwdCPdig3rkQNHauDTwMPCJ977u6MF/view?usp=drivesdk)
+![Single Page](https://drive.google.com/file/d/1ClEQPL7Hoa4NPygzYWHobSNuLVe3qryn/view?usp=drivesdk)
+
+
 ## Components
 
 * Gallery Component
