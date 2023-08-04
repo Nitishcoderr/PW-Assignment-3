@@ -6,7 +6,6 @@ This is a simple React app that displays an image gallery fetched from an API an
 
 - Fetches a collection of images from the API.
 - Displays a loading spinner while fetching data.
-- Provides an infinite scroll feature for viewing more images.
 - Allows users to click on a thumbnail to view a single image in larger view with its title and description.
 
 ## Components
